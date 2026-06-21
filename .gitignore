@@ -1,0 +1,10 @@
+# Ocultar absolutamente todo en el repositorio
+/*
+
+# Excepto el archivo 
+!.gitignore
+
+# Permitir carpetas
+
+# Bloquea archivos temporales dentro de las carpetas públicas
+**/.ipynb_checkpoints/
