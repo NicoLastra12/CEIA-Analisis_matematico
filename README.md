@@ -6,5 +6,6 @@ Este repositorio contiene el proyecto final grupal desarrollado durante la cursa
 Trabajo Práctico: Proyecto final integrador de la materia.
 
 🛠️ **Tecnologías Utilizadas**
-Python (Pandas, NumPy, scipy, time, tqdm, tracemalloc)..
+Python (Pandas, NumPy, scipy, time, tqdm, tracemalloc)
+
 Jupyter Notebooks
