@@ -4,7 +4,8 @@
 # Excepto el archivo 
 !.gitignore
 
-# Permitir carpetas
+# Permitir carpetas/archivos
+!*.ipynb
 
 # Bloquea archivos temporales dentro de las carpetas públicas
 **/.ipynb_checkpoints/
